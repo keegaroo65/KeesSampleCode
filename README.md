@@ -4,7 +4,7 @@ I am an Ottawa, Ontario, Canada, based developer. I have experience in many lang
 
 I have proficient experience writing my own code, teaching myself new skills and languages, reading other people's code, reading documentation, and appropriately applying 3rd party/cloud APIs.
 
-Below is a table of languages I have spent anywhere from a <u>few hours to potentially a thousand hours</u> coding in, along with the months I first started learning them, and how I would self-assess my proficiency based on my experience. Most recently I have focused on C# and Kotlin, but as I have the <u>fundamental logic-processing and problem solving skills, I can quickly pick up most languages just by learning the syntax</u>, especially when I have past experience with them.
+Below is a table of languages I have spent anywhere from a <b>few hours to potentially a thousand hours</b> coding in, along with the months I first started learning them, and how I would self-assess my proficiency based on my experience. Most recently I have focused on C# and Kotlin, but as I have the <b>fundamental logic-processing and problem solving skills, I can quickly pick up most languages just by learning the syntax</b>, especially when I have past experience with them.
 
 | Lang. Name | Start Date | Proficiency |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ See my samples for
 2. [C#](/CsSamples)
 3. [Kotlin](/KotlinSamples)
 
-<u>I recognize that working with a team requires a heavier committment to organization.</u> This includes practices such as unit testing capabilities, following version control, communicating with original authors of code (which is sometimes unavailable), commenting, and writing inherently readable and reusable compartmental code. At the end of the day, most of your comments should write themselves based on how you name your functions and organize and indent your code.
+<b>I recognize that working with a team requires a heavier committment to organization.</b> This includes practices such as unit testing capabilities, following version control, communicating with original authors of code (which is sometimes unavailable), commenting, and writing inherently readable and reusable compartmental code. At the end of the day, most of your comments should write themselves based on how you name your functions and organize and indent your code.
 
 These code samples were taken directly from various projects of mine with no special editing beforehand, so you can see general organizational structures I follow both in front-end and back-end code, especially considering that some of this is up to 5 years old (my Roblox experience in particular). My code samples may not all follow best practices as they are often for personal projects, but I will demonstrate my ability to write readable code in a team.
 
