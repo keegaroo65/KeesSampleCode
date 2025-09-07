@@ -1,4 +1,9 @@
 # Keegan Roy's Development Portfolio
+Quick reference: See my samples for
+1. [LuaU](/LuaSamples)
+2. [C#](/CsSamples)
+3. [Kotlin](/KotlinSamples)
+
 Welcome to my portfolio, you may know me as keegaroo65, kee, or kee65. I will typically provide a recent resume alongside this portfolio.
 I am an Ottawa, Ontario, Canada, based developer. I have experience in many languages, I've always preferred back-end code but I now have a fair amount of experience in front-end as well, from my time in Kotlin for Android, and some web-based experiments.
 
@@ -27,11 +32,6 @@ Below is a table of languages I have spent anywhere from a <b>few hours to poten
 
 ## Introduction
 This portfolio serves as a collection of both full code samples, images, and videos, showcasing my work in various programming languages. The samples are divided into 3 folders which each have their own README files explaining the contents and showing some extra videos, as well as having a handful of full source code files.
-
-See my samples for
-1. [LuaU](/LuaSamples)
-2. [C#](/CsSamples)
-3. [Kotlin](/KotlinSamples)
 
 <b>I recognize that working with a team requires a heavier committment to organization.</b> This includes practices such as unit testing capabilities, following version control, communicating with original authors of code (which is sometimes unavailable), commenting, and writing inherently readable and reusable compartmental code. At the end of the day, most of your comments should write themselves based on how you name your functions and organize and indent your code.
 
