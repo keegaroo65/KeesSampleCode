@@ -1,6 +1,6 @@
 My C# work consists of my Eclipsisn't passion project, which works to recreate [Eclipsis](https://www.roblox.com/games/632574862/Eclipsis) from Roblox in the Unity Engine.
 
-## Hover your mouse over the links to preview the external images and videos! (When it says "Image:" or "Video:")
+## Hover over a "Image:" or "Video:" link to see a quick preview, and click the links to open a new tab for videos, since they play slowly in Github.
 
 Here are some images showcasing the latest state of my game:
 

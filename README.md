@@ -4,7 +4,7 @@ Quick reference: See my samples for these languages:
 2. [C#](/CsSamples)
 3. [Kotlin](/KotlinSamples)
 
-## Hover your mouse over the links to preview the external images and videos! (When it says "Image:" or "Video:")
+## Hover over a "Image:" or "Video:" link to see a quick preview, and click the links to open a new tab for videos, since they play slowly in Github.
 
 Welcome to my portfolio, you may know me as keegaroo65, kee, or kee65. I will typically provide a recent resume alongside this portfolio.
 I am an Ottawa, Ontario, Canada, based developer. I have experience in many languages, I've always preferred back-end code but I now have a fair amount of experience in front-end as well, from my time in Kotlin for Android, and some web-based experiments.
