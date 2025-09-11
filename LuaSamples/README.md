@@ -3,12 +3,12 @@ My LuaU work spans from 2017 to 2025 on Roblox, with many personal projects, som
 In 2021 I contributed significantly to the [Area-02](https://www.roblox.com/games/2808131030/NEW-CDC-SCP-Area-02) game which was at the time under [Octa Studios](https://www.roblox.com/communities/7189408/Octa-Studios#!/about). I contributed mainly to back-end player data storage systems and small bugfixes at the time.
 
 I have few images/videos from this period, but here I am testing a bug where logs are showing up multiple times:
-https://i.gyazo.com/f42482c5da823238f290de802e03c86e.mp4
+![Me debugging with a player](https://i.gyazo.com/f42482c5da823238f290de802e03c86e.mp4)
 
 Some more recent work that never made it into a public game is this Minesweeper minigame I developed:
-![](./Minesweeper/MinesweeperSample1.png)
-![](./Minesweeper/MinesweeperSample2.png)
-![](./Minesweeper/MinesweeperSample3.png)
+![Minesweeper sample 1](./Minesweeper/MinesweeperSample1.png)
+![Minesweeper sample 2](./Minesweeper/MinesweeperSample2.png)
+![Minesweeper sample 3](./Minesweeper/MinesweeperSample3.png)
 
 I also worked on both an unreleased RTS game (Siege) and an unreleased city/state open-world (Candor) around the 2020-2021 period.
 
