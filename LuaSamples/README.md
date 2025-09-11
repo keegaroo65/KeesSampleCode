@@ -6,9 +6,9 @@ I have few images/videos from this period, but here I am testing a bug where log
 ![Me debugging with a player](https://i.gyazo.com/f42482c5da823238f290de802e03c86e.mp4)
 
 Some more recent work that never made it into a public game is this Minesweeper minigame I developed:
-![Minesweeper sample 1](./LuaSamples/Minesweeper/MinesweeperSample1.png)
-![Minesweeper sample 2](./Minesweeper/MinesweeperSample2.png)
-![Minesweeper sample 3](./Minesweeper/MinesweeperSample3.png)
+![Minesweeper sample 1](./LuaSamples/Minesweeper/Minesweeper_Sample1.png)
+![Minesweeper sample 2](./Minesweeper/Minesweeper_Sample2.png)
+![Minesweeper sample 3](./Minesweeper/Minesweeper_Sample3.png)
 
 I also worked on both an unreleased RTS game (Siege) and an unreleased city/state open-world (Candor) around the 2020-2021 period.
 
