@@ -4,7 +4,7 @@ My LuaU work spans from 2017 to 2025 on Roblox, with many personal projects, som
 
 In 2021 I contributed significantly to the [Area-02](https://www.roblox.com/games/2808131030/NEW-CDC-SCP-Area-02) game which was at the time under [Octa Studios](https://www.roblox.com/communities/7189408/Octa-Studios#!/about). I contributed mainly to back-end player data storage systems and small bugfixes at the time.
 
-I have few images/videos from this period, but here I am testing a bug where logs are showing up multiple times:
+I have few images/videos from this period, but here I am testing a bug where logs are showing up multiple times:<br>
 [Video: Me debugging with a player](https://gyazo.com/f42482c5da823238f290de802e03c86e)
 
 Some more recent work that never made it into a public game is this Minesweeper minigame I developed:<br>
