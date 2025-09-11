@@ -1,5 +1,7 @@
 My LuaU work spans from 2017 to 2025 on Roblox, with many personal projects, some contributions to professional studios, and lots of research.
 
+## Hover your mouse over the links to preview the videos!
+
 In 2021 I contributed significantly to the [Area-02](https://www.roblox.com/games/2808131030/NEW-CDC-SCP-Area-02) game which was at the time under [Octa Studios](https://www.roblox.com/communities/7189408/Octa-Studios#!/about). I contributed mainly to back-end player data storage systems and small bugfixes at the time.
 
 I have few images/videos from this period, but here I am testing a bug where logs are showing up multiple times:
@@ -18,7 +20,7 @@ https://gyazo.com/c2863a35b64f483a334a19ae547fc657
 Some turrets for Siege:
 ![](https://gyazo.com/8028b5dcb58ec25e531389989184843f)
 
-Then going back to 2020, some SCP work on Blacksite-13: (Hover your mouse over the links to preview the videos)
+Then going back to 2020, some SCP work on Blacksite-13:
 
 1. Terminal control system for the rooms
 [Terminal system](https://gyazo.com/528607cee1329558fb459c498f0670d0)
