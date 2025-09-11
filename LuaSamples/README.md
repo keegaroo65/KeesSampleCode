@@ -6,7 +6,7 @@ I have few images/videos from this period, but here I am testing a bug where log
 ![Me debugging with a player](https://i.gyazo.com/f42482c5da823238f290de802e03c86e.mp4)
 
 Some more recent work that never made it into a public game is this Minesweeper minigame I developed:
-![Minesweeper sample 1](./LuaSamples/Minesweeper/Minesweeper_Sample1.png)
+![Minesweeper sample 1](./Minesweeper/Minesweeper_Sample1.png)
 ![Minesweeper sample 2](./Minesweeper/Minesweeper_Sample2.png)
 ![Minesweeper sample 3](./Minesweeper/Minesweeper_Sample3.png)
 
@@ -18,22 +18,22 @@ https://gyazo.com/c2863a35b64f483a334a19ae547fc657
 Some turrets for Siege:
 ![](https://gyazo.com/8028b5dcb58ec25e531389989184843f)
 
-Then going back to 2020, some SCP work on Blacksite-13:
+Then going back to 2020, some SCP work on Blacksite-13: (Hover your mouse over the links to preview the videos)
 
 1. Terminal control system for the rooms
-![Terminal system](https://gyazo.com/528607cee1329558fb459c498f0670d0)
+[Terminal system](https://gyazo.com/528607cee1329558fb459c498f0670d0)
 
 2. Elevator with teleport transition
-![Animated elevator](https://gyazo.com/55298a51ff566d39d9bfd6b825e22d1f)
+[Animated elevator](https://gyazo.com/55298a51ff566d39d9bfd6b825e22d1f)
 
 3. Alarm sirens via a text console (text console not shown)
-![Alarm sirens](https://gyazo.com/5dbb4e52bc450345779059d0fca2fe64)
+[Alarm sirens](https://gyazo.com/5dbb4e52bc450345779059d0fca2fe64)
 
 4. Some E-to-interact doors (predating ProximityPrompts, however I can use ProximityPrompts now.)
-![E-to-interact doors](https://gyazo.com/1c4819bbd169149bfca0bbfa9b6ab3c9)
+[E-to-interact doors](https://gyazo.com/1c4819bbd169149bfca0bbfa9b6ab3c9)
 
 Before BS-13, there was an older Site-57 with this gorgeous animated keycard door:
-![Animated keycard door opening](https://gyazo.com/70b500b58d84708abdfe3794c757d4ee)
+[Animated keycard door opening](https://gyazo.com/70b500b58d84708abdfe3794c757d4ee)
 
 In conclusion, I have been working on the Roblox platform for many years now, with a wide range of both personal and group projects, from small to large, and I look forward to re-engaging the Roblox development community.
 
