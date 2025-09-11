@@ -4,6 +4,8 @@ Quick reference: See my samples for
 2. [C#](/CsSamples)
 3. [Kotlin](/KotlinSamples)
 
+![Alt text here](https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg?cs=srgb&dl=pexels-pixabay-104827.jpg&fm=jpg)
+
 Welcome to my portfolio, you may know me as keegaroo65, kee, or kee65. I will typically provide a recent resume alongside this portfolio.
 I am an Ottawa, Ontario, Canada, based developer. I have experience in many languages, I've always preferred back-end code but I now have a fair amount of experience in front-end as well, from my time in Kotlin for Android, and some web-based experiments.
 
