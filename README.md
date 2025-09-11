@@ -1,5 +1,5 @@
 # Keegan Roy's Development Portfolio
-Quick reference: See my samples for
+Quick reference: See my samples for these languages:
 1. [LuaU](/LuaSamples)
 2. [C#](/CsSamples)
 3. [Kotlin](/KotlinSamples)
@@ -38,5 +38,10 @@ This portfolio serves as a collection of both full code samples, images, and vid
 <b>I recognize that working with a team requires a heavier committment to organization.</b> This includes practices such as unit testing capabilities, following version control, communicating with original authors of code (which is sometimes unavailable), commenting, and writing inherently readable and reusable compartmental code. At the end of the day, most of your comments should write themselves based on how you name your functions and organize and indent your code.
 
 These code samples were taken directly from various projects of mine with no special editing beforehand, so you can see general organizational structures I follow both in front-end and back-end code, especially considering that some of this is up to 5 years old (my Roblox experience in particular). My code samples may not all follow best practices as they are often for personal projects, but I will demonstrate my ability to write readable code in a team.
+
+See my samples for these languages:
+1. [LuaU](/LuaSamples)
+2. [C#](/CsSamples)
+3. [Kotlin](/KotlinSamples)
 
 (Last updated: 06 Sept 2025)
