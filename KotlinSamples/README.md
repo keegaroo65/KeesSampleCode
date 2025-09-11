@@ -11,18 +11,18 @@ I have experience following Android's recommended Material Design 3 standards fo
 Here are some screenshots of my apps in action:
 
 1. The home screen of my BusApp:
-![./BusHomeScreen_Sample.png]
+![Image: Home screen](./BusHomeScreen_Sample.png)
 
 2. The screen for logging a new transaction you have made in Transactions:
-![./NewTransaction_Sample.png]
+![Image: New Transaction](./NewTransaction_Sample.png)
 
 3. A custom-made checkmark popup animation for Prom Vendors:
-![https://gyazo.com/dbf13f760ba5b961b77caa9629dfbb35]
+![Video: Checkmark](https://gyazo.com/dbf13f760ba5b961b77caa9629dfbb35)
 
 4. Landing page (Prom Vendors):
-![./PromVendors_LandingPage.png]
+![Image: Landing page](./PromVendors_LandingPage.png)
 
 5. Vendor Search (Prom Vendors):
-![./PromVendors_VendorSearch.png]
+![Image: Vendor search](./PromVendors_VendorSearch.png)
 
 (Last updated: 06 Sept 2025)
