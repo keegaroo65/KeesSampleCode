@@ -17,7 +17,7 @@ Here are some screenshots of my apps in action:
 ![Image: New Transaction](./NewTransaction_Sample.png)
 
 3. A custom-made checkmark popup animation for Prom Vendors:
-![Video: Checkmark](https://gyazo.com/dbf13f760ba5b961b77caa9629dfbb35)
+[Video: Checkmark](https://gyazo.com/dbf13f760ba5b961b77caa9629dfbb35)
 
 4. Landing page (Prom Vendors):
 ![Image: Landing page](./PromVendors_LandingPage.png)
